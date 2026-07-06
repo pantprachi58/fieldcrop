@@ -59,8 +59,8 @@ export default function Footer() {
 
               <div className="col-12 col-lg-6">
                 <div className="footer__item">
-                  <span className="__copy">© 2019 FieldCrop. All rights reserved. Created by <a className="__dev" href="https://themeforest.net/user/artureanec" target="_blank" rel="noreferrer">VD Infotech</a></span>
-                </div>
+                  <span className="__copy">© 2026 The Vanity Unisex Salon. All Rights Reserved. Crafted with ❤️ by<a className="__dev" href="https://www.vdinfotech.in/" target="_blank" rel="noreferrer">VD Infotech – Web Development | Digital Marketing | App & Software | Branding</a></span>
+                </div> 
               </div>
             </div>
           </div>
