@@ -19,10 +19,10 @@ export default function Footer() {
                 <div className="footer__item">
                   <address>
                     <p>
-                      523 Sylvan Ave, 5th Floor Mountain View, CA 94041 USA
+                     *************************
                     </p>
                     <p>
-                      +1 (234) 56789, +1 987 654 3210 <br />
+                     8888888888, 999999999999 <br />
                       <a href="mailto:support@FieldCropcompany.com">support@FieldCropcompany.com</a>
                     </p>
                   </address>
@@ -59,7 +59,7 @@ export default function Footer() {
 
               <div className="col-12 col-lg-6">
                 <div className="footer__item">
-                  <span className="__copy">© 2019 FieldCrop. All rights reserved. Created by <a className="__dev" href="https://themeforest.net/user/artureanec" target="_blank" rel="noreferrer">Artureanec</a></span>
+                  <span className="__copy">© 2019 FieldCrop. All rights reserved. Created by <a className="__dev" href="https://themeforest.net/user/artureanec" target="_blank" rel="noreferrer">VD Infotech</a></span>
                 </div>
               </div>
             </div>

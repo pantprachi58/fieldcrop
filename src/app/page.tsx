@@ -1305,43 +1305,11 @@ export default function Home() {
 									<div className="col-12 col-md-5 col-xl-3">
 										<div className="__item">
 											<figure className="__image">
-												<img className="" src="/img/product-preview_img/1.jpg" alt="demo" />
+												<img className="" src="/img/product-preview_img/4.jpg" alt="demo" />
 											</figure>
 
 											<div className="__content">
-												<h3 className="__title">fruits</h3>
-											</div>
-
-											<a className="__link" href="#"></a>
-										</div>
-									</div>
-									
-
-									
-									<div className="col-12 col-md-4 col-xl-3">
-										<div className="__item">
-											<figure className="__image">
-												<img className="" src="/img/product-preview_img/2.jpg" alt="demo" />
-											</figure>
-
-											<div className="__content">
-												<h3 className="__title">Vegatables</h3>
-											</div>
-
-											<a className="__link" href="#"></a>
-										</div>
-									</div>
-									
-
-									
-									<div className="col-12 col-md-4 col-xl-3">
-										<div className="__item">
-											<figure className="__image">
-												<img className="" src="/img/product-preview_img/3.jpg" alt="demo" />
-											</figure>
-
-											<div className="__content">
-												<h3 className="__title">livestock</h3>
+												<h3 className="__title">Wheat</h3>
 											</div>
 
 											<a className="__link" href="#"></a>
@@ -1357,7 +1325,39 @@ export default function Home() {
 											</figure>
 
 											<div className="__content">
-												<h3 className="__title">Sunflowers</h3>
+												<h3 className="__title">Oil</h3>
+											</div>
+
+											<a className="__link" href="#"></a>
+										</div>
+									</div>
+									
+
+									
+									<div className="col-12 col-md-4 col-xl-3">
+										<div className="__item">
+											<figure className="__image">
+												<img className="" src="/img/product-preview_img/4.jpg" alt="demo" />
+											</figure>
+
+											<div className="__content">
+												<h3 className="__title">Wheat</h3>
+											</div>
+
+											<a className="__link" href="#"></a>
+										</div>
+									</div>
+									
+
+									
+									<div className="col-12 col-md-4 col-xl-3">
+										<div className="__item">
+											<figure className="__image">
+												<img className="" src="/img/product-preview_img/4.jpg" alt="demo" />
+											</figure>
+
+											<div className="__content">
+												<h3 className="__title">Wheat</h3>
 											</div>
 
 											<a className="__link" href="#"></a>
@@ -1381,7 +1381,7 @@ export default function Home() {
 									<div className="col-12 col-md-7 col-xl-6 offset-xl-3">
 										<div className="__item">
 											<figure className="__image">
-												<img className="" src="/img/product-preview_img/5.jpg" alt="demo" />
+												<img className="" src="/img/product-preview_img/4.jpg" alt="demo" />
 											</figure>
 
 											<div className="__content">
@@ -1397,7 +1397,7 @@ export default function Home() {
 									<div className="col-12 col-md-5 col-xl-3">
 										<div className="__item">
 											<figure className="__image">
-												<img className="" src="/img/product-preview_img/6.jpg"  alt="demo" />
+												<img className="" src="/img/product-preview_img/4.jpg"  alt="demo" />
 											</figure>
 
 											<div className="__content">
@@ -1479,7 +1479,7 @@ export default function Home() {
 				
 
 				
-				<section className="section section--no-pt section--no-pb section--gutter">
+				{/* <section className="section section--no-pt section--no-pb section--gutter">
 					
 					<div className="simple-banner simple-banner--style-1" data-aos="fade" data-aos-offset="50">
 
@@ -1524,7 +1524,7 @@ export default function Home() {
 					</div>
 					
 				</section>
-				
+				 */}
 
 				
 				<section className="section section--no-pb">
@@ -1625,107 +1625,6 @@ export default function Home() {
 				
 
 				
-				<section className="section">
-
-
-
-					<div className="container">
-
-						<div className="partners-list">
-							<div className="js-slick"
-								 data-slick='{
-								 "autoplay": true,
-								 "arrows": false,
-								 "dots": true,
-								 "speed": 1000,
-								 "responsive": [
-									{
-										"breakpoint":576,
-										"settings":{
-											"slidesToShow": 2
-										}
-									},
-									{
-										"breakpoint":767,
-										"settings":{
-											"slidesToShow": 3
-										}
-									},
-									{
-										"breakpoint":991,
-										"settings":{
-											"slidesToShow": 4
-										}
-									},
-									{
-										"breakpoint":1199,
-										"settings":{
-											"autoplay": false,
-											"dots": false,
-											"slidesToShow": 5
-										}
-									}
-								]}'>
-								<div className="__item">
-									<img className="img-fluid m-auto" src="/img/partners_img/1.jpg" alt="demo" />
-								</div>
-
-								<div className="__item">
-									<img className="img-fluid m-auto" src="/img/partners_img/2.jpg" alt="demo" />
-								</div>
-
-								<div className="__item">
-									<img className="img-fluid m-auto" src="/img/partners_img/3.jpg" alt="demo" />
-								</div>
-
-								<div className="__item">
-									<img className="img-fluid m-auto" src="/img/partners_img/4.jpg" alt="demo" />
-								</div>
-
-								<div className="__item">
-									<img className="img-fluid m-auto" src="/img/partners_img/5.jpg" alt="demo" />
-								</div>
-							</div>
-						</div>
-					
-					</div>
-				</section>
-				
-
-				
-				<section className="section section--dark-bg">
-					<div className="container">
-						<div className="section-heading section-heading--center section-heading--white" data-aos="fade">
-							<h2 className="__title">Get <span>in touch</span></h2>
-
-							<p>Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
-						</div>
-
-						<form className="contact-form js-contact-form" action="#" data-aos="fade">
-							<div className="row">
-								<div className="col-12 col-md-6">
-									<div className="input-wrp">
-										<input className="textfield" name="name" type="text" placeholder="Name" />
-									</div>
-								</div>
-
-								<div className="col-12 col-md-6">
-									<div className="input-wrp">
-										<input className="textfield" name="email" type="text" placeholder="E-mail" />
-									</div>
-								</div>
-							</div>
-
-							<div className="input-wrp">
-								<textarea className="textfield" name="message" placeholder="Comments"></textarea>
-							</div>
-
-							<button className="custom-btn custom-btn--medium custom-btn--style-3 wide" type="submit" role="button">Send</button>
-
-							<div className="form__note"></div>
-						</form>
-					</div>
-				</section>
 				
 
 				
