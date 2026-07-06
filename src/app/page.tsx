@@ -667,7 +667,7 @@ export default function Home() {
 						}
 						/* Glass Cards */
 						.wc-glass-card {
-							background: rgba(255, 255, 255, 0.08);
+							background: #fff;
 							backdrop-filter: blur(14px);
 							-webkit-backdrop-filter: blur(14px);
 							border: 1px solid rgba(255,255,255,0.18);
@@ -689,11 +689,7 @@ export default function Home() {
 							background: radial-gradient(circle, rgba(255,255,255,0.06) 0%, transparent 65%);
 							pointer-events: none;
 						}
-						.wc-glass-card:hover {
-							transform: translateY(-12px) scale(1.02);
-							box-shadow: 0 24px 60px rgba(0,0,0,0.35), 0 0 0 1px rgba(168,224,99,0.3);
-							background: rgba(255,255,255,0.13);
-						}
+					
 						/* Icon */
 						.wc-icon-wrap {
 							width: 72px;
@@ -742,8 +738,8 @@ export default function Home() {
 							text-align: left;
 						}
 						.wc-feature-list li {
-							color: rgba(255,255,255,0.8);
-							font-size: 0.88rem;
+							color: #000;
+							font-size: 12px;
 							padding: 5px 0;
 							display: flex;
 							align-items: center;
@@ -1621,18 +1617,7 @@ export default function Home() {
 						</div>
 						
 					</div>
-				</section>
-				
-
-				
-				
-
-				
-				<section className="section section--no-pt section--no-pb">
-					
-					<div className="g_map" data-api-key="AIzaSyBXQROV5YMCERGIIuwxrmaZbBl_Wm4Dy5U" data-longitude="44.958309" data-latitude="34.109925" data-marker="img/marker.png" style={{"minHeight":"255px"}}></div>
-				</section>
-				
+				</section>				
 			</main>
 			
 

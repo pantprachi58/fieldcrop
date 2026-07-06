@@ -1070,6 +1070,7 @@ a:hover {
   text-decoration: none;
 }
 .section-heading {
+  padding-top: 70px;
   margin-bottom: 60px;
   line-height: 1.4;
   font-size: 1.8rem;
@@ -3660,7 +3661,7 @@ label {
     font-size: 7.5rem;
   }
   .start-screen--style-1 .start-screen__content__item--2 .__title {
-    font-size: 7.5rem;
+    font-size: 55px;
   }
   .start-screen--style-1 .start-screen__content__item--3 .__title {
     font-size: 20rem;

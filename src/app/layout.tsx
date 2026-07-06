@@ -192,7 +192,7 @@ export default function RootLayout({
         <link rel="stylesheet" href="/css/style.min.css" type="text/css" />
 
         {/* Device.js */}
-        {/* <Script src="/js/device.min.js" strategy="beforeInteractive" /> */}
+        <Script src="/js/device.min.js" strategy="beforeInteractive" />
       </head>
       <body>
         {/* JSON-LD Structured Data – placed in body section as required */}
